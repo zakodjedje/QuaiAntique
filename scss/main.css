@@ -12055,4 +12055,10 @@ img {
 
 .form-label {
   color: #907427;
+}
+
+.allreservation a {
+  display: block;
+  color: #292222;
+  padding: 10px;
 }/*# sourceMappingURL=main.css.map */
